@@ -1,6 +1,5 @@
 * {
   margin:0;
-  box-sizing: border-box;
 }
 
 body {
@@ -57,3 +56,4 @@ font-weight: normal;
 opacity: 0.9;
 margin-bottom: 10px;
   }
+}
